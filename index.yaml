@@ -3,11 +3,11 @@ entries:
   galaxy:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-10T05:25:55.322745886Z"
+    created: "2020-07-10T05:55:33.926188039Z"
     description: A Helm chart for Kubernetes
-    digest: 03089b7913efbf69a8b9f967c445a11938c2fef05d402dccbe8704c492ee0648
+    digest: 102ada10417ea9d20d00c43bd077dec93accd7537bd211bd6cabe0d94c831fef
     name: galaxy
     urls:
     - https://c6supper.github.com/helm-repo/galaxy-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-10T05:25:55.321832483Z"
+generated: "2020-07-10T05:55:33.925558028Z"
