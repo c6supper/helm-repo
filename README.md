@@ -10,7 +10,7 @@ create and publish like this:
 ```console
 $ helm create mychart
 $ helm package mychart
-$ helm repo index ./ --url https://c6supper.github.com/helm-repo
+$ helm repo index --url https://c6supper.github.com/helm-repo ./ 
 $ git add -i
 $ git commit -av
 $ git push origin master
